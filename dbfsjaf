@@ -1,0 +1,6 @@
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="This_is_the_title_0"></a>This is the title</h1>
+<h5 class="code-line" data-line-start=2 data-line-end=3 ><a id="This_is_a_heading_2"></a>This is a heading</h5>
+<ul>
+<li class="has-line-data" data-line-start="4" data-line-end="5"><em>italic</em></li>
+<li class="has-line-data" data-line-start="5" data-line-end="6"><strong>bold</strong></li>
+</ul>
